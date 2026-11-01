@@ -1,0 +1,6 @@
+{
+  "name": "Prisma ERD Studio",
+  "description": "Interactive Entity Relationship Diagram (ERD) visualizer and architecture dashboard for Prisma schemas with real-time bezier connectors, model inspector, and SQL preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
